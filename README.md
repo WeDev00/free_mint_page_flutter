@@ -1,4 +1,4 @@
-# Flutter conditioned Mint Page
+# Flutter Mint Page
 
 A Flutter webpage to mint an NFT.
 
